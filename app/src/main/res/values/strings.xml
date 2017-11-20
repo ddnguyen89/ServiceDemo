@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="bacon_button">Go to Bacon</string>
+    <string name="apple_tv">Apples</string>
+    <string name="bacon_tv">Bacon</string>
+    <string name="apple_button">Go To Apples</string>
+</resources>
