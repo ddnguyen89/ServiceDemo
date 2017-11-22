@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IntentDemo</string>
+    <string name="app_name">ServiceDemo</string>
     <string name="bacon_button">Go to Bacon</string>
     <string name="apple_tv">Apples</string>
     <string name="bacon_tv">Bacon</string>
